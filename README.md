@@ -14,7 +14,7 @@
 $ git clone https://github.com/gokulkrishh/demo-progressive-web-app
 ```
 
-#### `Step 2` - cd in the repo
+#### `Step 2` - cd in the repoo
 
 ```bash
 $ cd demo-progressive-web-app
